@@ -1,5 +1,5 @@
 import { C2 } from './bridgeTest2.ts';
-import { F3 } from './folder/bridgeTest.ts';
+import { F5 } from './folder/bridgeTest.ts';
 
 let aaa ;
 let bbb ;
