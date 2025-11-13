@@ -2,15 +2,15 @@ import { xxx } from './bridgeTest';
 import { RRR } from './ggg/bridgeTest3';
 
 
-class aaa (a , b , c ) {
+class C1 (a , b , c ) {
 
     let hhh ;
     let zzz ;
 
-    function philip1 ( Q1 ) { 
+    function F1 ( Q1 ) { 
         let xxx;
 
-        function philip2 ( Q2 ) { 
+        function F2 ( Q2 ) { 
 
             //global ttt;
             global ttt;
@@ -23,4 +23,4 @@ class aaa (a , b , c ) {
     
 }
 
-aaa.philip1;
+aaa.F1;
