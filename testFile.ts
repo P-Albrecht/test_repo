@@ -22,3 +22,4 @@ class C1 (a , b , c ) {
 C1.F1;
 C1.F2;
 C2.F3;
+C2.F4;
