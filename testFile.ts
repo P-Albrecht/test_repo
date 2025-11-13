@@ -11,6 +11,11 @@ class C1 (a , b , c ) {
         let xxx;
         let yyy;
     }
+
+    function F2 ( Q1 ) { 
+        let zzz;
+        let yyy;
+    }
     
 }
 
