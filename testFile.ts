@@ -7,12 +7,12 @@ class C1 (a , b , c ) {
     let hhh ;
     let zzz ;
 
-    function F1 ( Q1 ) { 
+    function F1 ( hhh ) { 
         let xxx;
         let yyy;
     }
 
-    function F2 ( Q1 ) { 
+    function F2 ( a ) { 
         let zzz;
         let yyy;
     }
