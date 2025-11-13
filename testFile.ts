@@ -1,5 +1,5 @@
-import { xxx } from './bridgeTest';
-import { RRR } from './ggg/bridgeTest3';
+import { xxx } from './bridgeTest2.ts';
+import { F3 } from './folder/bridgeTest.ts';
 
 
 class C1 (a , b , c ) {
