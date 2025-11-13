@@ -1,4 +1,4 @@
-import { xxx } from './bridgeTest2.ts';
+import { C2 } from './bridgeTest2.ts';
 import { F3 } from './folder/bridgeTest.ts';
 
 
