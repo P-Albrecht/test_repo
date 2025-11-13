@@ -16,7 +16,7 @@ class C1 (a , b , c ) {
     }
 
     function F2 ( V2 ) { 
-        let zzz;
+        let zzz = bbb;
         let yyy = hhh;
     }
     
