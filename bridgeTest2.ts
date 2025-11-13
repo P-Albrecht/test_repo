@@ -6,4 +6,9 @@ class C2 () {
         let ccc ;
         let ddd ;
     }
+
+    function F4 ( Q3 ) { 
+        let xxx ;
+        let yyy ;
+    }
 }
