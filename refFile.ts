@@ -1,3 +1,3 @@
-class C2 () {
+class C3 () {
   // hello world
 }
