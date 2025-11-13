@@ -1,6 +1,9 @@
 import { C2 } from './bridgeTest2.ts';
 import { F3 } from './folder/bridgeTest.ts';
 
+let aaa ;
+let bbb ;
+let ccc ;
 
 class C1 (a , b , c ) {
 
@@ -19,7 +22,7 @@ class C1 (a , b , c ) {
     
 }
 
-C1.F1;
-C1.F2;
-C2.F3;
-C2.F4;
+C1.F1(aaa);
+C1.F2(ccc);
+C2.F3();
+C2.F4();
