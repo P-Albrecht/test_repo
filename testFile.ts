@@ -9,15 +9,6 @@ class C1 (a , b , c ) {
 
     function F1 ( Q1 ) { 
         let xxx;
-
-        function F2 ( Q2 ) { 
-
-            //global ttt;
-            global ttt;
-            
-            let xxx;
-        }
-
         let yyy;
     }
     
