@@ -11,13 +11,13 @@ class C1 (a , b , c ) {
     let zzz ;
 
     function F1 ( V1 ) { 
-        let xxx;
+        let xxx = zzz;
         let yyy;
     }
 
     function F2 ( V2 ) { 
         let zzz;
-        let yyy;
+        let yyy = hhh;
     }
     
 }
