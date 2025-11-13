@@ -23,4 +23,4 @@ class C1 (a , b , c ) {
     
 }
 
-aaa.F1;
+C1.F1;
