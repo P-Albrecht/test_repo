@@ -1,14 +1,15 @@
 class C2 () {
 
     let ddd ;
+    let eee ;
 
     function F3 ( Q3 ) { 
         let ccc ;
         let ddd ;
     }
 
-    function F4 ( Q3 ) { 
-        let xxx ;
-        let yyy ;
+    function F4 ( eee ) { 
+        let xxx = ddd;
+        let yyy = eee;
     }
 }
