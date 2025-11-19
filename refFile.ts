@@ -1,10 +1,13 @@
 class C3 () {
   // hello world
   
- let hhh ;​
+ F2() ;​
  function F1 ( ) { ​
-  let aaa = hhh;​
-  let bbb = hhh;​
+  F2();​
+ }​
+
+ function F2 ( ) { ​
+  F2();​
  }
 ​​
 }
