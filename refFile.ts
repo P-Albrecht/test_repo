@@ -9,6 +9,8 @@ class C3 () {
 
  function F2 ( ) { ​
   F2();​
+  F2();​
+  F2();​
  }
 
  function F3 ( ) { ​
