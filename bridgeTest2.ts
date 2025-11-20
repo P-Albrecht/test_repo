@@ -12,4 +12,6 @@ class C2 () {
         let xxx = ddd;
         let yyy = eee;
     }
+
+    F2();
 }
