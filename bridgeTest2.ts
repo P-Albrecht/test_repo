@@ -8,7 +8,7 @@ class C2 () {
         let ddd ;
     }
 
-    function F4 ( eee, aaa, bbb ) { 
+    function F4 ( int eee, string aaa, int bbb ) { 
         let xxx = ddd;
         let yyy = eee;
     }
