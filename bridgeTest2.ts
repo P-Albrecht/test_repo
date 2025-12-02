@@ -4,10 +4,10 @@ class C2 () {
     type TestType = {
         var1: string;
         var2: number;
-        var3: testtype2;
+        var3: testType2;
     }
 
-    type testtype2 = {
+    type testType2 = {
         var1: string;
         var2: string;
         var3: number;
@@ -23,7 +23,7 @@ class C2 () {
         let ddd ;
     }
 
-    function F4 ( int eee, string aaa, int bbb ) { 
+    function F4 ( TestType eee, string aaa, int bbb ) { 
         let xxx = ddd;
         let yyy = eee;
     }
