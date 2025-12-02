@@ -3,6 +3,10 @@ class C2 () {
 
     type TestType = {
         var1: string;
+    }
+    
+    type TestType = {
+        var1: string;
         var2: number;
         var3: testType2;
     }
