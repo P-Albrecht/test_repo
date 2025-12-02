@@ -11,6 +11,9 @@ class C2 () {
         var1: string;
         var2: string;
         var3: number;
+        var3: {
+            var3: number;
+        };
     }
 
     
